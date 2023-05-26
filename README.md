@@ -1,14 +1,12 @@
 # ARE
-ARE (Advanced Rocket Engines) is a Kerbal Space Program Mod created to add more engines to the stock-game, with engines designed for Early, Mid, and Late gamees.
+ARE (Advanced Rocket Engines) is a Kerbal Space Program Mod created to add more engines to.. KSP-1, with engines designed for Early, Mid, and Late games.
 
 How to install:
 
- Install the latest version of ARE compatible with your current version.
+ Install the latest version of ARE for supported versions. (Likely to be 1.8.x-1.12.x)
  Dependendencies for this mod are:
-  B9PartSwitch
-  ModuleManager
+ Not Known.
  Optional:
-  Realplume
-  Or Waterfall Core
+ Likely Waterfall Core.
 
-You can find this mod both on Github and Spaedock (Once finished, that is)
+You will be able to find this mod on both on Github and SpaceDock, once it is fully fledged, and finished.
